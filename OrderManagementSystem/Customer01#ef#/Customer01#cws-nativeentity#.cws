@@ -5,8 +5,8 @@
 	typeVersion="06E7E4B3-21E5-4E89-A832-02EB7CCE511E"
 	RuntimeDocumentID="00505601-0DB4-A1EC-BE45-3F75A3BF415E">
 	<DocumentID>00505601-0DB4-A1EC-BE45-3F75A3BF015E</DocumentID>
-	<Name>Customer1</Name>
-	<Description>Customer1</Description>
+	<Name>Customer01</Name>
+	<Description>Customer01</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-07-01T08:10:34.314</CreationDate>
 	<Notes/>
